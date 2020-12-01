@@ -141,7 +141,7 @@ body {
     height: 100%;
 }
 body.bubble {
-    background: url("../img/wall.jpg") center;
+    background: url("../img/wall.jpg") no-repeat center fixed;
     background-size: cover;
 }
 body.bubble::after {

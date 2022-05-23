@@ -4,7 +4,7 @@ var loop = 0;
 
 $( document ).ready(function() {
     startTime();
-	build_notice("Bebeb");
+	build_notice("Silvy");
 });
 
 function startTime() {
